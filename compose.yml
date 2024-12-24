@@ -40,7 +40,7 @@ services:
 
 # Optional services
 
-  docs:
+   docs:
      image: xyzmaps/xyz-docs
      container_name: xyz-docs
      ports:
